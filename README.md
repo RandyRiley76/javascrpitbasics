@@ -1,6 +1,2 @@
-# google-homepage
-# google-homepage
-# google-homepage
-# google-homepage
-# google-homepage
-# javascrpitbasics
+Javascript solution to Problem 1 of Project Euler
+Link to the Problem: https://projecteuler.net/problem=1.
